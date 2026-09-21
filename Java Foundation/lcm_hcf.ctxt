@@ -1,0 +1,10 @@
+#BlueJ class context
+#Mon Aug 03 12:23:49 IST 2026
+comment0.target=lcm_hcf
+comment1.params=a b
+comment1.target=int hcf(int, int)
+comment2.params=a b
+comment2.target=int lcm(int, int)
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
